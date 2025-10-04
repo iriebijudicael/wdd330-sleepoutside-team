@@ -5,7 +5,7 @@
             --white: #fff;
             --gray-light: #f5f7fa;
             --gray-medium: #e0e4eb;
-            --blue-dark: #001f5b;
+            --blue-dark: #f0a868;
             --blue-light: #e6f0ff;
             --border-color: #d1d9e6;
         }
@@ -41,7 +41,7 @@
         header {
             background-color: var(--blue-dark);
             color: var(--white);
-            padding: 20px 40px;
+            padding: 70px 40px;
             display: flex;
             justify-content: space-between;
             align-items: center;
